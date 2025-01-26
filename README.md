@@ -21,7 +21,7 @@ To run the script, you need the following Python libraries:
 - `pandas`
 - `plotly`
 
-You can install these libraries using the following command:
+- You can install these libraries using the following command:
 pip install plotly pandas
 ---
 ## *Usage*
@@ -50,7 +50,7 @@ Generates interactive plots using plotly.
 
 Combines the plots into a single dashboard.
 
-Exports the dataset to a CSV file.
+- Exports the dataset to a CSV file.
 ---
 
 ## *Plots*
@@ -78,10 +78,10 @@ Parameters (Billions): Number of parameters in billions.
 
 Accuracy (%): Accuracy of the model.
 
-Training Time (Days): Time required to train the model.
+- Training Time (Days): Time required to train the model.
 ---
 ## *Contributing*
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
+-  Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 ---
 ## *License*
 This project is licensed under the MIT License. See the LICENSE file for details
