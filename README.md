@@ -24,7 +24,7 @@ To run the script, you need the following Python libraries:
 You can install these libraries using the following command:
 ```bash
 pip install plotly pandas
-
+```bash
 Usage
 Clone the Repository:
 git clone https://github.com/<your-username>/<your-repo-name>.git
