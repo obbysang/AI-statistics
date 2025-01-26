@@ -22,11 +22,11 @@ To run the script, you need the following Python libraries:
 - `plotly`
 
 - You can install these libraries using the following command:
-pip install plotly pandas
+    - pip install plotly pandas
 ---
-## *Usage*
-Clone the Repository:
-git clone https://github.com/<your-username>/<your-repo-name>.git
+## **Usage**
+Clone the Repository
+
 Run the Script:
 
 Open the ai_statistics.py file in Google Colab or any Python environment.
@@ -41,7 +41,7 @@ The dataset will be saved as ai_statistics.csv in the repository.
 
 ---
 
-## *Code Overview*
+## **Code Overview**
 The script performs the following tasks:
 
 Creates a dataset of AI model statistics.
@@ -53,7 +53,7 @@ Combines the plots into a single dashboard.
 - Exports the dataset to a CSV file.
 ---
 
-## *Plots*
+## **Plots**
 1. Bar Plot: Parameters of Leading AI Models
 Bar Plot
 
@@ -67,7 +67,7 @@ Line Plot
 Dashboard
 ---
 
-## *Dataset*
+## **Dataset**
 The dataset includes the following columns:
 
 AI Model: Name of the AI model.
@@ -80,8 +80,8 @@ Accuracy (%): Accuracy of the model.
 
 - Training Time (Days): Time required to train the model.
 ---
-## *Contributing*
+## **Contributing**
 -  Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 ---
-## *License*
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for details
